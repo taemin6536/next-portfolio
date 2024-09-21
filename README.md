@@ -1,5 +1,6 @@
-### 태민'S 포트폴리오 ###
-## NextJS, Tailwind CSS, Notion API, Lottie Animation, Vercel deploy 를 이용하여 만든 나만의 포트폴리오 프로젝트 ##
+# 태민'S 포트폴리오 #
+## NextJS, Tailwind CSS, Notion API, Lottie Animation, Vercel deploy 를 
+이용하여 만든 나만의 포트폴리오 프로젝트 ##
 ## 개발부터 배포까지 하여 포트폴리오를 외부에서 접근하여 볼 수 있습니다. ##
 ## 링크 : ... ##
 
